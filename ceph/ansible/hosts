@@ -1,0 +1,11 @@
+[ceph-admin]
+localhost
+
+
+[ceph-monitors]
+
+
+[ceph-osds]
+
+
+[ceph-mds]
